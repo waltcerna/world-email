@@ -1,0 +1,203 @@
+<mjml>
+    <mj-head owa="desktop" lang="en">
+        <mj-title>[Save the date] Lock in your early-bird rate for World 2019!</mj-title>
+
+        <mj-style inline="inline"></mj-style>
+        <mj-preview>
+            Join Us at MicroStrategy World 2019. Register Today!
+        </mj-preview>
+    
+    </mj-head>
+    
+    <mj-body background-color="#efefef">
+        
+        <mj-wrapper background-url="https://custom.cvent.com/83AD54AE0B7F4CBC94A9A945D0A278DA/pix/a595792e9a9f47c1b5698e12ce5072e4.png" background-repeat="no-repeat" full-width="full-width">
+            
+            <mj-section background-color="#ffffff">
+            
+                <mj-column>
+                    <!-- Intro -->
+                    <mj-text font-size="18px" color="#333333">
+                        Dear {{lead.First Name:default=Reader}},
+                    </mj-text>
+                    <mj-text font-size="16px" color="#333333" line-height="24px">
+                        Last year in Vegas was all business, but this year it’s personal. The biggest analytics and mobility event of 2019 has a single focus: you.
+                    </mj-text>
+                </mj-column>
+                
+            </mj-section>
+
+            <mj-section background-color="#ffffff">
+
+                <!-- Logo -->
+                <mj-column>
+                    <mj-image width="200px" src="https://go.microstrategy.com/rs/750-TDG-583/images/world2019-logo.png">
+                </mj-column>
+
+            </mj-section>
+
+            <mj-section background-color="#ffffff">
+                
+                <!-- Event Info -->
+                <mj-column width="20%">
+                    <mj-image width="50px" src="https://go.microstrategy.com/rs/750-TDG-583/images/Calendar grey.png" />
+                </mj-column>
+
+                <mj-column>
+                    <mj-text font-size="20px">
+                        February 4-6, 2019
+                    </mj-text>
+                </mj-column>
+                
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Event Info -->
+                <mj-column width="20%">
+                    <mj-image width="50px" src="https://go.microstrategy.com/rs/750-TDG-583/images/Geo Tag grey.png" />
+                </mj-column>
+
+                <mj-column>
+                    <mj-text font-size="20px">
+                        Phoenix Convention Center <br> Phoenix, Arizona
+                    </mj-text>
+                </mj-column>
+                
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Event Info -->
+                <mj-column width="20%">
+                    <mj-image width="50px" src="https://go.microstrategy.com/rs/750-TDG-583/images/Ticket.png" />
+                </mj-column>
+
+                <mj-column>
+                    <mj-text font-size="20px" align="left">
+                        Early Bird <br> $1195 until October 31, 2018
+                    </mj-text>
+                </mj-column>
+                
+            </mj-section>
+
+            <mj-section background-color="#ffffff">
+                
+                <!-- Registration Button -->
+                <mj-column>
+                    <mj-button background-color="#4a89a2" font-size="20px" text-transform="uppercase" border-radius="0" text-align="center" align="center" inner-padding="20px 40px" href="http://events.microstrategy.com/d/stq5y7?RefID=World2019_em_alu">
+                        Register Today
+                    </mj-button>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Bullet Point One -->
+                <mj-column>
+                    <mj-image src="https://custom.cvent.com/83AD54AE0B7F4CBC94A9A945D0A278DA/pix/68a955ec4c0f4797b438b527b08cfdd4.png" width="30px"/>
+                    <mj-text font-size="16px" font-weight="bold" color="#6f6f6f">1:1 Consulting Sessions</mj-text>
+                    <mj-text font-size="16px" line-height="24px">Meet directly with an expert right on the exhibit hall floor. Together you’ll build a plan to achieve your analytics and mobility goals. You’ll leave inspired and ready to tackle your toughest business challenges.</mj-text>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Bullet Point Two -->
+                <mj-column>
+                    <mj-image src="https://custom.cvent.com/83AD54AE0B7F4CBC94A9A945D0A278DA/pix/63b6b0d145024d3391dfdddf49eec28e.png" width="30px"/>
+                    <mj-text font-size="16px" font-weight="bold" color="#6f6f6f">Personalized Roadmap Briefings</mj-text>
+                    <mj-text font-size="16px" line-height="24px">Understand where our latest technology will take your business. Meet with our product experts to learn about upcoming capabilities and features that will transform how your organization uses its data. </mj-text>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Bullet Point Three -->
+                <mj-column>
+                    <mj-image src="https://custom.cvent.com/83AD54AE0B7F4CBC94A9A945D0A278DA/pix/a12913e3d3674cde9fda98c3d988485a.png" width="30px"/>
+                    <mj-text font-size="16px" font-weight="bold" color="#6f6f6f">A Platform for <em>You</em></mj-text>
+                    <mj-text font-size="16px" line-height="24px">Get ready to make intelligence pervasive like never before with AI, natural language, and machine learning. Get your hands on the world’s first and only third-generation analytics platform. </mj-text>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#ffffff" text-align="center">
+                
+                <!-- Bottom CTA -->
+                <mj-column>
+                    <mj-text align="center" font-size="24px" color="#c80e2f" line-height="32px">Register today to lock in your early-bird rate.</mj-text>
+                    <mj-button inner-padding="20px 40px" border-radius="0" background-color="#c80e2f" font-size="18px" text-transform="uppercase">Reserve Your Seat</mj-button>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#eeeeee" border-top="2px solid #d3d3d3" border-bottom="2px solid #d3d3d3">
+                
+                <!-- Call for Speakers -->
+                <mj-column>
+                    <mj-text font-size="20px" font-weight="bold">Call for Speakers</mj-text>
+                    <mj-text font-size="16px" line-height="24px">Share your MicroStrategy story at World. For more information, and to submit your abstract, 
+                    <a href="https://www.cvent.com/c/abstracts/d4332719-f83e-4369-91ef-eb7249af7822" target="_blank" color="#333333"><em><strong>click here</strong></em></a></mj-text>
+                </mj-column>
+
+            </mj-section>
+            
+            <mj-section background-color="#ffffff">
+                
+                <!-- Sponsors -->
+                <mj-column>
+                    <mj-text align="center"font-size="20px" font-weight="bold" color="#6f6f6f">Sponsors</mj-text>
+                    <mj-image src="https://go.microstrategy.com/rs/750-TDG-583/images/sponsor-em-world-2019.jpg"/>
+                </mj-column>
+
+            </mj-section>
+
+            <mj-section background-color="#333333">
+                <mj-column> 
+                    <mj-text align="center" color="#efefef">This email has been sent to you by</mj-text>
+
+                    <mj-text align="center" color="#efefef" line-height="20px">
+                        MicroStrategy, Inc. | 1850 Towers Crescent Plaza | Tysons Corner, VA 22182<br>703.848.8600&nbsp;
+                    </mj-text>
+
+                    <mj-text align="center" color="#efefef">
+                        <a href="http://get.microstrategy.com/yWUT63Yg090bGDo0ak00030" style="text-decoration:none;color:#efefef;"> www.microstrategy.com</a> | <a href="http://get.microstrategy.com/ND00pT39000WYUG0lga063b" style="text-decoration:none;color:#efefef;line-height:24px"> info@microstrategy.com</a><br>
+                        <a href="https://go.microstrategy.com/UnsubscribePage.html?mkt_unsubscribe=1&amp;mkt_tok=eyJpIjoiWkRKak1UZGlNVEk0TkdNeCIsInQiOiI5VDVNSEF4MjFoNC9keVBzRW80NDNRSEVIQWFlZ3Y2ODdmMFdiUzk5ZTJ3SFpLcTVKRmpqSHYyZnFncXBlLzJQcWIzN1l1TDdHem5hYjFiYnFrb1U3c3BFb0MrTGxyM2lWeEVSUzhXTEZlR1a1JwcTlhdGUyWGtwM2JhTTNTZyJ9" style="text-decoration:none;color:#efefef;">Unsubscribe</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            
+            <mj-section background-color="#333333">
+                
+                <!-- Social Footer -->
+                <mj-column width="22px">
+                    <mj-social>
+                        <mj-social-element name="facebook" />
+                    </mj-social>
+                </mj-column>
+                <mj-column width="22px">
+                    <mj-social>
+                        <mj-social-element name="twitter" />
+                    </mj-social>
+                </mj-column>
+                <mj-column width="22px">
+                    <mj-social>
+                        <mj-social-element name="linkedin" />
+                    </mj-social>
+                </mj-column>
+
+                <mj-column>
+                    <mj-image width="22px" height="22px" src="http://go.microstrategy.com/rs/750-TDG-583/images/community_footer_icon_2.png"/>
+                </mj-column>
+
+            </mj-section>
+        
+        </mj-wrapper>
+              
+    </mj-body>
+
+</mjml>
